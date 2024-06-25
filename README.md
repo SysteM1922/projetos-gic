@@ -7,12 +7,12 @@
 </h2>
 
 | Projeto | Present | 1 | 2 |
-| ------- | --: | --: | --: |
+| ------- | :-: | :-: | :-: |
 | Nota | 20 | 16 | 18 |
 
 <h2>
   
 Os projetos estão numa organização github que pode ser acedida pelos seguintes links:<br>
-[Projeto 1](https://github.com/GIC-Assignment-ChatHub/deployment1)
+[Projeto 1](https://github.com/GIC-Assignment-ChatHub/deployment1)<br>
 [Projeto 2](https://github.com/GIC-Assignment-ChatHub/deployment2)
 </h2>
